@@ -1,0 +1,14 @@
+{
+  "name": "Feature: Add support for X",
+  "priority": 1,
+  "ticket": [
+    {
+      "name": "Feature: add new ticket",
+      "priority": 2
+    },
+    {
+      "name": "Feature: update a ticket",
+      "priority": 2
+    }
+  ]
+}
